@@ -1,1 +1,0 @@
-Solution to Programmers codingTest 
